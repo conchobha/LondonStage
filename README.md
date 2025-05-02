@@ -19,7 +19,7 @@ Holds a single jupyter file that is used to generate all visualizations aside fr
 Holds the png output of all of the visualizations
 
 #### Connection map between Actresses and Dramatists
-![Connection](https://github.com/conchobha/LondonStage/blob/main/Visualizations/Dramatist_Actress_connections.png?raw=true)
+![Connection](LondonStage/Visualizations/Dramatist_Actress_connections.png)
 #### Connection map between Actresses
 ![Connections](https://github.com/conchobha/LondonStage/blob/main/Visualizations/ActressConnections.png?raw=true)
 #### Network map of actresses
